@@ -1,0 +1,17 @@
+.header {
+}
+body {
+  background-color: #ddd;
+}
+.main-content {
+  background-color: white;
+  min-height: 650px;
+  border: 1px solid #eee;
+}
+.sidebar {
+  background-color: thistle;
+  min-height: 650px;
+}
+.footer {
+  min-height: 50px;
+}
